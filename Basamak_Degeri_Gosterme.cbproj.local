@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.07.22 16:42:41.490,=C:\Users\tayfu\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021.07.22 16:42:41.865,=C:\Users\tayfu\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2021.07.22 16:43:18.684,C:\Users\tayfu\Documents\Embarcadero\Studio\Projects\Basamak_Degeri_Hesaplama.cbproj=C:\Users\tayfu\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021.07.22 16:43:18.684,C:\Users\tayfu\Documents\Embarcadero\Studio\Projects\Basamak_Degeri_HesaplamaPCH1.h=C:\Users\tayfu\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021.07.22 16:43:25.996,C:\Users\tayfu\Documents\Embarcadero\Studio\Projects\Codes.cpp=C:\Users\tayfu\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2021.07.22 16:43:58.027,C:\Users\tayfu\Documents\Embarcadero\Studio\Projects\Basamak_Degeri_GostermePCH1.h=C:\Users\tayfu\Documents\Embarcadero\Studio\Projects\Basamak_Degeri_HesaplamaPCH1.h</Transaction>
+    <Transaction>2021.07.22 16:43:58.027,C:\Users\tayfu\Documents\Embarcadero\Studio\Projects\Basamak_Degeri_Gosterme.cbproj=C:\Users\tayfu\Documents\Embarcadero\Studio\Projects\Basamak_Degeri_Hesaplama.cbproj</Transaction>
+    <Transaction>2021.07.22 16:44:13.451,C:\Users\tayfu\Desktop\Githuba Gönderilecekler\Basamak Değeri Hesaplama\Codes.cpp=C:\Users\tayfu\Documents\Embarcadero\Studio\Projects\Codes.cpp</Transaction>
+    <Transaction>2021.07.22 16:44:15.130,C:\Users\tayfu\Desktop\Githuba Gönderilecekler\Basamak Değeri Hesaplama\Basamak_Degeri_GostermePCH1.h=C:\Users\tayfu\Documents\Embarcadero\Studio\Projects\Basamak_Degeri_GostermePCH1.h</Transaction>
+    <Transaction>2021.07.22 16:44:16.333,C:\Users\tayfu\Desktop\Githuba Gönderilecekler\Basamak Değeri Hesaplama\Basamak_Degeri_Gosterme.cbproj=C:\Users\tayfu\Documents\Embarcadero\Studio\Projects\Basamak_Degeri_Gosterme.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
